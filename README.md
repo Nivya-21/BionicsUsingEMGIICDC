@@ -1,1 +1,2 @@
-# BionicsUsingEMGIICDC
+# BionicsUsingEMG
+I'll add later
